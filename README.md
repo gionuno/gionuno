@@ -1,7 +1,6 @@
 I like:
-- Numerical Optimization
-- Artificial Intelligence
-- Data Science/Machine Learning
+- Numerical Analysis/Optimization
+- Data Science, Machine Learning, Artificial Intelligence
 - Image/Signal Processing
 - Functional Programming
 
